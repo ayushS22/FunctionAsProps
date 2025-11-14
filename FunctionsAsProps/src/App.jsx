@@ -4,7 +4,7 @@ import Child from "./Child";
 import { useState } from 'react'
 
 function App() {
-  /* Create a state variable to store message from child */
+  /* Create a state variable to store message from child below */
   const  [message , setMessage]= useState("");
 
 
